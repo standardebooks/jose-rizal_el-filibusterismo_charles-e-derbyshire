@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#aba">
+		<match value="abá"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#alcalde">
+		<match value="alcalde"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ayuntamiento">
+		<match value="ayuntamiento"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#balete">
+		<match value="balete"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#banka">
+		<match value="banka"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#batalan">
+		<match value="batalan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#batikulin">
+		<match value="batikúlin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bibinka">
+		<match value="bibinka"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#buyera">
+		<match value="buyera"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#buyo">
+		<match value="buyo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cabesang">
+		<match value="cabesang"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cabeza-de-barangay">
+		<match value="cabeza de barangay">
+			<value value="cabezas de barangay"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#calesa">
+		<match value="calesa"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#calle">
+		<match value="calle"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#camisa">
+		<match value="camisa"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#capitan">
+		<match value="capitan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#carambas">
+		<match value="carambas"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#carbineer">
+		<match value="carbineer">
+			<value value="carbineers"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#carromata">
+		<match value="carromata"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#casco">
+		<match value="casco"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cayman">
+		<match value="cayman"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cedula">
+		<match value="cédula"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chongka">
+		<match value="chongka"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cigarrera">
+		<match value="cigarrera"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#civil-guard">
+		<match value="civil guard"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cochero">
+		<match value="cochero">
+			<value value="cocheros"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cuarto">
+		<match value="cuarto">
+			<value value="cuartos"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#filibuster">
+		<match value="filibuster"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#filibusterism">
+		<match value="filibusterism"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gobernadorcillo">
+		<match value="gobernadorcillo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gumamela">
+		<match value="gumamela"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#indian">
+		<match value="indian"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kalan">
+		<match value="kalan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kalikut">
+		<match value="kalikut"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kamagon">
+		<match value="kamagon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lanete">
+		<match value="lanete"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#linintikan">
+		<match value="linintikan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#malacanang">
+		<match value="malacañang"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#malecon">
+		<match value="malecon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mestizo">
+		<match value="mestizo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#naku">
+		<match value="nakú"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#narra">
+		<match value="narra"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nipa">
+		<match value="nipa"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#novena">
+		<match value="novena"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#panguingui">
+		<match value="panguingui"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#panguinguera">
+		<match value="panguinguera"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pansit">
+		<match value="pansit"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pansiteria">
+		<match value="pansitería"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#panuelo">
+		<match value="pañuelo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#peso">
+		<match value="peso"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#petate">
+		<match value="petate"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pina">
+		<match value="piña"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#provincial">
+		<match value="provincial"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#punales">
+		<match value="puñales"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#querida">
+		<match value="querida"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#real">
+		<match value="real"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sala">
+		<match value="sala"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#salakot">
+		<match value="salakot"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sampaguita">
+		<match value="sampaguitas"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sipa">
+		<match value="sipa"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#soltada">
+		<match value="soltada"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#susmariosep">
+		<match value="susmariosep"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tabi">
+		<match value="tabi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tabu">
+		<match value="tabú"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#taju">
+		<match value="tajú"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tampipi">
+		<match value="tampipi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tandang">
+		<match value="tandang"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tapis">
+		<match value="tapis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tatakut">
+		<match value="tatakut"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#teniente-mayor">
+		<match value="teniente-mayor"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tertiary-sister">
+		<match value="tertiary sister"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tienda">
+		<match value="tienda"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tikbalang">
+		<match value="tikbalang"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tulisan">
+		<match value="tulisan">
+			<value value="tulisanes"/>
+		</match>
+	</search-key-group>
+</search-key-map>
