@@ -19,7 +19,7 @@
 		<match value="batalan"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#batikulin">
-		<match value="batikúlin"/>
+		<match value="batikulin"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bibinka">
 		<match value="bibinka"/>
@@ -195,7 +195,7 @@
 		<match value="susmariosep"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tabi">
-		<match value="tabi"/>
+		<match value="tabí"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tabu">
 		<match value="tabú"/>
