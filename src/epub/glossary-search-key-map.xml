@@ -39,7 +39,9 @@
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#calesa">
-		<match value="calesa"/>
+		<match value="calesa">
+			<value value="calesas"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#calle">
 		<match value="calle"/>
@@ -62,13 +64,15 @@
 		<match value="carromata"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#casco">
-		<match value="casco"/>
+		<match value="casco">
+			<value value="cascos"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cayman">
 		<match value="cayman"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cedula">
-		<match value="cédula"/>
+		<match value="cedula"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#chongka">
 		<match value="chongka"/>
@@ -99,7 +103,9 @@
 		<match value="gobernadorcillo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gumamela">
-		<match value="gumamela"/>
+		<match value="gumamela">
+			<value value="gumamelas"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#indian">
 		<match value="indian"/>
@@ -118,9 +124,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#linintikan">
 		<match value="linintikan"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#malacanang">
-		<match value="malacañang"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#malecon">
 		<match value="malecon"/>
@@ -220,9 +223,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tertiary-sister">
 		<match value="tertiary sister"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#tienda">
-		<match value="tienda"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tikbalang">
 		<match value="tikbalang"/>
