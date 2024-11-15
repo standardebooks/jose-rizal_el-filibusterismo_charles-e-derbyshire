@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-35.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>epigragh as is</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
