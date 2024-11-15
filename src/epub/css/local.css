@@ -121,3 +121,14 @@ dd + dt{
 	margin-top: 1em;
 }
 /* end glossary */
+
+/* ibarra note */
+#chapter-35 [epub|type~="z3998:letter"] p{
+	text-align: center;
+	text-indent: initial;
+}
+
+#chapter-35 [epub|type~="z3998:letter"] p + p{
+	font-style: italic;
+}
+/* end ibarra note */
