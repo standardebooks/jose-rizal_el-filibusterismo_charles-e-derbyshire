@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jose-rizal/el-filibusterismo/charles-e-derbyshire</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-11-21T16:34:29Z</dc:date>
+		<meta property="dcterms:modified">2024-11-21T16:34:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,15 +40,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man thought to be long dead returns in disguise, hoping to find his lost love and a people ready to rise up against their oppressors.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;El Filibusterismo&lt;/i&gt; is the sequel to &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jose-rizal/noli-me-tangere/charles-e-derbyshire"&gt;Noli Me Tangere&lt;/a&gt;&lt;/i&gt;, and picks up thirteen years after Crisóstomo Ibarra disappeared. He is assumed dead after fleeing from the Civil Guard. Returning to the Philippines in disguise, he involves himself in the lives of those he once knew. Ibarra works with the ruling class to make life more miserable for the native population, hoping to frustrate them enough to awaken them and cause them to rise up against their oppressors. This proves difficult, as even the least talk of liberalism or reform is considered filibusterism, and filibusters risk jail, deportation, or worse.&lt;/p&gt;
-			&lt;p&gt;The story follows the lives of several characters at all levels of society. Some of the most vulnerable are robbed by corrupt officials, and cannot afford the legal fees, or find a patron to help to get back what is theirs. Students push back against the stultifying school environment that keeps them away from any practical learning. When their plans for a new school are hampered, they publish protests and this lands many of them in jail. Meanwhile, Ibbara hopes to unite with his lost love, and develops plans to foment a revolt against the government.&lt;/p&gt;
-			&lt;p&gt;This novel takes a dark turn from the hopeful &lt;i&gt;Noli&lt;/i&gt;, where &lt;a href="https://standardebooks.org/ebooks/jose-rizal"&gt;Rizal&lt;/a&gt; showed optimism that modest reform could bring about change. Now the character of Ibarra seems to personify Rizal as he concludes that real change will only come by violent means. While Rizal did not lead revolutionary activity, his writings had such an effect that he was exiled and finally executed by the government.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;El Filibusterismo&lt;/i&gt; is the sequel to &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jose-rizal/noli-me-tangere/charles-e-derbyshire"&gt;Noli Me Tangere&lt;/a&gt;&lt;/i&gt;, and picks up thirteen years after Crisóstomo Ibarra disappeared, assumed dead after fleeing from the Civil Guard. Returning to the Philippines in disguise, he involves himself in the lives of those he once knew. Ibarra works with the ruling class to make life miserable for the native population, hoping to frustrate them enough to awaken them and cause them to rise up against their oppressors. This proves difficult, as even the slightest talk of liberalism or reform is considered “filibusterism,” and filibusters risk jail, deportation, or worse.&lt;/p&gt;
+			&lt;p&gt;The story follows the lives of several characters at all levels of society. Some of the most vulnerable are robbed by corrupt officials and cannot afford legal fees, or find a patron to help to get back what is theirs. Students push back against the stultifying school environment that bars them from any practical learning. When their plans for a new school are hampered, they publish protests, and this lands many of them in jail. Meanwhile, Ibarra hopes to unite with his lost love, and develops plans to foment a revolt against the government.&lt;/p&gt;
+			&lt;p&gt;This novel takes a dark turn from the hopeful &lt;i&gt;Noli Me Tangere&lt;/i&gt;, where &lt;a href="https://standardebooks.org/ebooks/jose-rizal"&gt;Rizal&lt;/a&gt; showed optimism that modest reform could bring about change. Now the character of Ibarra seems to personify Rizal himself as he comes to the conclusion that real change will only come by violent means. While Rizal himself didn’t lead any revolutionary activity, his writings had such an effect that he was exiled and finally executed by the government. Many consider his writings, including &lt;i&gt;El Filibusterismo&lt;/i&gt;, to have indirectly inspired the Philippine Revolution.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10676</dc:source>
 		<dc:source>https://archive.org/details/reignofgreedcomp0000riza</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">113764</meta>
+		<meta property="se:reading-ease.flesch">58.42</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/El_filibusterismo</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jose-rizal_el-filibusterismo_charles-e-derbyshire</meta>
 		<dc:creator id="author">José Rizal</dc:creator>
@@ -86,6 +86,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
