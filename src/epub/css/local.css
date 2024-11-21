@@ -128,7 +128,8 @@ dd + dt{
 	text-indent: initial;
 }
 
-#chapter-35 [epub|type~="z3998:letter"] p + p{
+#chapter-35 [epub|type~="z3998:letter"] footer > p{
 	font-style: italic;
+	font-variant: initial;
 }
 /* end ibarra note */
