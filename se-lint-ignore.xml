@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-35.xhtml">
-		<ignore>
-			<code>t-011</code>
+		<ignore code="t-011">
 			<reason>Epigragh does not have punctuation in print.</reason>
 		</ignore>
 	</file>
