@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-35.xhtml">
 		<ignore code="t-011">
+			<line>16</line>
 			<reason>Epigragh does not have punctuation in print.</reason>
 		</ignore>
 	</file>
